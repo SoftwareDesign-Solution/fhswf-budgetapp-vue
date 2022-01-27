@@ -1,4 +1,4 @@
-# FHSWF Angular BudgetApp
+# FHSWF Vue BudgetApp
 
 Dieses Projekt wurde im Rahmen der Lehrbrief-Erstellung für das Modul "Webentwicklung Frontend" erstellt.
 
